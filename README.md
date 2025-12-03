@@ -73,7 +73,7 @@ Request new features
 ## 📦 Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/moderator-bot
+git clone https://github.com/darkp9088/moderator-bot
 cd moderator-bot
 pip install -r requirements.txt
 
