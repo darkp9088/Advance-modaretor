@@ -10,4 +10,5 @@ oauth2client
 requests
 pytz
 deep-translator
+python-telegram-bot[job-queue]
 httpx
