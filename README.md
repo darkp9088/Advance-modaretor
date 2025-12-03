@@ -58,6 +58,17 @@ A powerful, production-ready Telegram group moderation bot with **anti-spam**, *
 - Deep Translator  
 
 ---
+⚠️ If You Face Any Problem
+
+If you find any issue, bug, or error while using this Moderator Bot, feel free to:
+
+Open an Issue in the repository
+
+Report a bug
+
+Suggest improvements
+
+Request new features
 
 ## 📦 Installation
 
@@ -65,3 +76,12 @@ A powerful, production-ready Telegram group moderation bot with **anti-spam**, *
 git clone https://github.com/YOUR_USERNAME/moderator-bot
 cd moderator-bot
 pip install -r requirements.txt
+
+python3 -m venv env
+source env/bin/activate
+
+
+Run:
+
+python main.py
+
